@@ -7,10 +7,10 @@ import TrendingPoolGroup from '../../components/TrendingPoolGroup';
 import RecentActivity from '../../components/RecentActivity';
 import Footer from '../../components/Footer';
 import { Swiper, SwiperSlide } from 'swiper/react';
+import { Pagination } from "swiper";
 import ArrowLeft  from '../../assets/PNG/arrowleft@4x.png';
 import ArrowRight  from '../../assets/PNG/arrowright@4x.png';
 import 'swiper/css';
-import { Pagination } from "swiper";
 import "swiper/css/pagination";
 
 export default function Landing() {
