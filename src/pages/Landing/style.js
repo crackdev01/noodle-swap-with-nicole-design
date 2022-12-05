@@ -46,3 +46,8 @@ export const LoadButton = styled.div`
     font-size: 20px;
 `;
 
+export const SlideButton = styled.img`
+    width: 3rem;
+    height: 3rem;
+`
+
